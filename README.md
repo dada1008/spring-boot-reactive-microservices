@@ -13,7 +13,7 @@
 ## How to run?
 
 ### Build all modules:
- `./mvnw clean package -DskipTests=true`
+ `mvn clean package -DskipTests=true`
 
 **Microservices created:**
 
