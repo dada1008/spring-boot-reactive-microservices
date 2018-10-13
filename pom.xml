@@ -10,6 +10,7 @@
   <modules>
     <module>account-service</module>
     <module>customer-service</module>
+    <module>eureka-service-registry</module>
   </modules>
   <packaging>pom</packaging>
 
